@@ -1,0 +1,4 @@
+streamlit- "GUI"
+Langchain-"Embeddings,TextSplitting,Retrieving"
+Pypdf2-"Reader"
+FAISS-"VectorStore"
